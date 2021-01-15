@@ -1,5 +1,9 @@
 server:
   port: 7001
+spring:
+  cloud:
+    inetutils:
+      timeout-seconds: 10
 
 
 eureka:
