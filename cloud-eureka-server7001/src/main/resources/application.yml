@@ -5,7 +5,7 @@ spring:
     inetutils:
       timeout-seconds: 10
 
-
+#aaaaaaaaaa
 eureka:
   instance:
     hostname: eureka7001.com #eureka服务端的实例名称
