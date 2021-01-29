@@ -3,7 +3,7 @@ server:
 spring:
   cloud:
     inetutils:
-      timeout-seconds: 10
+      timeout-seconds: 60
 eureka:
   instance:
     hostname: eureka7002.com #eureka服务端的实例名称

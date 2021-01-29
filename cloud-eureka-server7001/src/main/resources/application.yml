@@ -3,7 +3,7 @@ server:
 spring:
   cloud:
     inetutils:
-      timeout-seconds: 10
+      timeout-seconds: 20
 
 
 eureka:
